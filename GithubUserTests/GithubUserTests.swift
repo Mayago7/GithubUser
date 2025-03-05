@@ -1,10 +1,3 @@
-//
-//  GithubUserTests.swift
-//  GithubUserTests
-//
-//  Created by Bernardo Cervantes Mayagoitia on 3/3/25.
-//
-
 import Testing
 @testable import GithubUser
 

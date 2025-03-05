@@ -1,10 +1,3 @@
-//
-//  GithubUserUITestsLaunchTests.swift
-//  GithubUserUITests
-//
-//  Created by Bernardo Cervantes Mayagoitia on 3/3/25.
-//
-
 import XCTest
 
 final class GithubUserUITestsLaunchTests: XCTestCase {
